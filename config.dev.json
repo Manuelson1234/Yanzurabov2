@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100052395031835",
+    "61563425273900",
     ""
   ],
   "whiteListMode": {
@@ -25,11 +25,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Kyle Bait-it",
-  "AGE": "19",
+  "OWNER": "Eagle bot",
+  "AGE": "14",
   "GENDER": "MALE",
-  "nickNameBot": "≫ # ≪ ➣ 𝑍𝐸𝑃𝐻𝑌𝑅𝑈𝑆 𝘼𝙄𝘃𝟮𓃵",
-  "FACEBOOK": "https://www.facebook.com/kyleyukaro",
+  "nickNameBot": "🦅Eagle bot🦅",
+  "FACEBOOK": "https://www.facebook.com/manuelson2",
   "prefix": "#",
   "database": {
     "type": "sqlite",
